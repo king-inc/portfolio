@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/codio/workspace/Dungeon-Game/IO.cpp
+IO.h
+/home/codio/workspace/Dungeon-Game/IO.h
+
+/home/codio/workspace/Dungeon-Game/IO.h
+termios.h
+-
+stdio.h
+-
+unistd.h
+-
+

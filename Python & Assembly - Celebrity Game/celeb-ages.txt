@@ -1,0 +1,37 @@
+Vin Diesel,53
+Matthew Perry,51
+Kim Kardashian, 40
+Milo Ventimiglia,43
+Serena Williams,39
+Nick Offerman,50
+Kris Jenner,65
+Eminem,48
+Brad Pitt,57
+Vanessa Hudgens,32
+Halle Berry,54
+Jim Parsons,47
+Chris Rock,55
+Selena Gomez,28
+Thomas Brodie-Sangster,30
+Ellen DeGeneres,62
+Dwayne "The Rock" Johnson,48
+Jennifer Lawrence,30
+Forest Whitaker,59
+Lisa Bonet,52
+George Clooney,59
+Carly Rae Jepsen,35
+Chuck Norris,80
+Kylie Jenner,23
+Seth Green,47
+Julie Bowen,51
+Rory McCann,52
+Joan Jett,62
+Elle Fanning,22
+Beanie Feldstein,27
+Tom Cruise,58
+Billie Eilish,19
+Lorde,23
+Samuel L. Jackson,71
+Margot Robbie,30
+Sarah Hyland,29
+Jane Fonda,82

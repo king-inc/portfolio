@@ -1,0 +1,117 @@
+.btnAction {
+    padding: 5px 10px;
+    margin-left: 5px;
+    background-color: #efefef;
+    border: #E0E0E0 1px solid;
+    color: #211a1a;
+    float: right;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.cart-button {
+    padding: 5px 40px;
+    background-color: #efefef;
+    border: #E0E0E0 1px solid;
+    color: #211a1a;
+    float: right;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#book-grid {
+	margin: 40px;
+}
+
+.txt-heading {
+	color: #211a1a;
+	border-bottom: 1px solid #E0E0E0;
+	overflow: auto;
+}
+
+.book-item {
+	float: left;
+	background: #ffffff;
+	margin: 25px 30px 0px 0px;
+	border: #E0E0E0 1px solid;
+}
+
+
+.book-cart {
+	float: left;
+	background: #ffffff;
+	margin: 25px 25px 25px 25px;
+}
+
+.cart {
+  float: right;
+  background: #ffffff;
+	margin: 2px 0px 0px 0px;
+	border: #E0E0E0 1px solid;
+}
+
+.book-image {
+  text-align: center;
+	height: 200px;
+	width: 200px;
+	background-color: #FFF;
+  margin-top: 3px;
+}
+.book-tile-footer {
+    padding: 15px 15px 0px 15px;
+    overflow: auto;
+}
+
+.book-title {
+  text-align: center;
+	margin-bottom: 5px;
+}
+
+.book-price {
+  text-align: center;
+	margin-bottom: 5px;
+}
+
+.book-isbn {
+  text-align: center;
+	margin-bottom: 5px;
+}
+
+.book-quantity {
+  text-align: center;
+	margin-bottom: 5px;
+}
+
+.cart-action {
+	float: right;
+}
+
+td {
+    border: solid 2px lightgrey;
+}
+
+tr .dta{
+  display: flex;
+  flex-direction: column;
+}
+
+.no-records {
+	text-align: center;
+	clear: both;
+	margin: 38px 0px;
+}
+
+// Mixin
+.center-block() {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Usage
+.container {
+  width: 940px;
+  .center-block();
+}

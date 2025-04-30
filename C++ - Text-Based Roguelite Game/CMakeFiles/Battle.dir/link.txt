@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libBattle.a  CMakeFiles/Battle.dir/Battle.cpp.o
+/usr/bin/ranlib lib/libBattle.a

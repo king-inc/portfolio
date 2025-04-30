@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wvla -Werror=vla -Wfatal-errors  -rdynamic CMakeFiles/main.dir/main.cpp.o  -o bin/main lib/libgame.a lib/libplayer.a lib/libmap.a lib/libIO.a lib/libenemy.a lib/libBattle.a 

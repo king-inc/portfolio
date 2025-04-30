@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/encog-core-3.4.jar"/>
+</classpath>
+
